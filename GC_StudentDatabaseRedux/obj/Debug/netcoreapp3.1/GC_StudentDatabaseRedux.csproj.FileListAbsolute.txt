@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\bin\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.exe
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\bin\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.deps.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\bin\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.runtimeconfig.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\bin\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\bin\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\bin\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_StudentDatabaseRedux\GC_StudentDatabaseRedux\obj\Debug\netcoreapp3.1\GC_StudentDatabaseRedux.genruntimeconfig.cache
